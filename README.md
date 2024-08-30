@@ -4,6 +4,9 @@ Quizzotic offers a vast quiz library covering diverse topics, with quizzes desig
 # How to Set Your Own Firebase Configurations
 In every .js file, replace firebaseConfig = {} with your Firebase project configurations, after creating your Firebase project.
 
+# Email.JS configuration
+use your Email js Key and your template id it the given field
+
 # How to Design the Database for This Project
 A data.json file is provided in the project, which you can import directly into your Firebase Realtime Database. It also contains information on how user data will be stored. Review this file to get an idea of the database design.
 
