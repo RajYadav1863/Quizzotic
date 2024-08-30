@@ -1,0 +1,2474 @@
+{
+  "QUIZ": {
+    "QUIZ_1": {
+      "Quiz_Desc": "Test your cricketing knowledge! From legendary players to tricky rules, this quiz will stump even the biggest fans. Ready for a yorker of questions?",
+      "Quiz_Title": "Cricket Challenge",
+      "Quiz_id": "QUIZ_1",
+      "Quiz_sub": "Brain vs. Spin : Test Your Cricket Knowledge",
+      "img": "imgs/cricket.avif",
+      "questions": [
+        {
+          "Question": "How many players are there in each cricket team on the field during a match?",
+          "answer": "11",
+          "num": 1,
+          "options": [
+            "11",
+            "10",
+            "8",
+            "9"
+          ]
+        },
+        {
+          "Question": "What is the name of the batsman who defends the wickets?",
+          "answer": "Non-striker",
+          "num": 2,
+          "options": [
+            "Non-striker",
+            "Bowler",
+            "Captain",
+            "Batsman on Strike"
+          ]
+        },
+        {
+          "Question": "Which delivery is aimed at the batsman's legs?",
+          "answer": "Yorker",
+          "num": 3,
+          "options": [
+            "Yorker",
+            "Bouncer",
+            "Googly",
+            "Leg Spin"
+          ]
+        },
+        {
+          "Question": "How many runs are awarded for hitting the ball out of the boundary on the bounce?",
+          "answer": "4",
+          "num": 4,
+          "options": [
+            "4",
+            "6",
+            "Out",
+            "1"
+          ]
+        },
+        {
+          "Question": "What is the name of the two short upright posts at each end of the pitch?",
+          "answer": "Wickets",
+          "num": 5,
+          "options": [
+            "Wickets",
+            "Bails",
+            "Crease",
+            "Boundary"
+          ]
+        },
+        {
+          "Question": "Which format of cricket is played over five days?",
+          "answer": "Test Match",
+          "num": 6,
+          "options": [
+            "Test Match",
+            "One Day International (ODI)",
+            "Twenty20 (T20)",
+            "The Hundred"
+          ]
+        },
+        {
+          "Question": "What is the name of the protective equipment worn by the wicket-keeper?",
+          "answer": "Pads",
+          "num": 7,
+          "options": [
+            "Pads",
+            "Helmet",
+            "Gloves",
+            "Bat"
+          ]
+        },
+        {
+          "Question": "How many overs are in a Twenty20 (T20) match?",
+          "answer": "20",
+          "num": 8,
+          "options": [
+            "20",
+            "50",
+            "90",
+            "Unlimited"
+          ]
+        },
+        {
+          "Question": "What is the name of the flat bat used by batsmen to hit the ball?",
+          "answer": "Bat",
+          "num": 9,
+          "options": [
+            "Bat",
+            "Ball",
+            "Wicket",
+            "Pad"
+          ]
+        },
+        {
+          "Question": "Which country won the most Cricket World Cups?",
+          "answer": "Australia",
+          "num": 10,
+          "options": [
+            "Australia",
+            "India",
+            "England",
+            "West Indies"
+          ]
+        }
+      ]
+    },
+    "QUIZ_10": {
+      "Quiz_Desc": "From the savannah to the rainforest, this quiz covers a wide range of animal species. Test your knowledge and see if you're a wildlife expert!",
+      "Quiz_Title": "Wildlife Wiz",
+      "Quiz_id": "QUIZ_10",
+      "Quiz_sub": "Are You a Creature Expert?",
+      "img": "imgs/Wildlife.jpg",
+      "questions": [
+        {
+          "Question": "What is the largest living land animal by weight?",
+          "answer": "African Bush Elephant",
+          "num": 1,
+          "options": [
+            "Giraffe",
+            "Hippopotamus",
+            "African Bush Elephant",
+            "Blue Whale"
+          ]
+        },
+        {
+          "Question": "Which flightless bird is the largest living bird species?",
+          "answer": "Ostrich",
+          "num": 2,
+          "options": [
+            "Emu",
+            "Rhea",
+            "Cassowary",
+            "Ostrich"
+          ]
+        },
+        {
+          "Question": "What is the name of the group of animals with warm-blooded fur, three middle ear bones, and mammary glands for nursing young?",
+          "answer": "Mammals",
+          "num": 3,
+          "options": [
+            "Amphibians",
+            "Reptiles",
+            "Mammals",
+            "Avian"
+          ]
+        },
+        {
+          "Question": "What unique adaptation allows a Komodo dragon to take down prey much larger than itself?",
+          "answer": "Venomous bite",
+          "num": 4,
+          "options": [
+            "Powerful claws",
+            "Crushing bite force",
+            "High speed running",
+            "Venomous bite"
+          ]
+        },
+        {
+          "Question": "What is the collective noun for a group of owls?",
+          "answer": "parliament",
+          "num": 5,
+          "options": [
+            "Pack",
+            "Pride",
+            "Parliament",
+            "Flock"
+          ]
+        },
+        {
+          "Question": "Which type of bear is known for its black and white fur and solitary lifestyle?",
+          "answer": "Giant Panda",
+          "num": 6,
+          "options": [
+            "Grizzly Bear",
+            "Polar Bear",
+            "Brown Bear",
+            "Giant Panda"
+          ]
+        },
+        {
+          "Question": "What is the process called when a cold-blooded animal reduces its activity during cold weather to conserve energy?",
+          "answer": "Brumation",
+          "num": 7,
+          "options": [
+            "Molting",
+            "Migration",
+            "Hibernation (for mammals)",
+            "Brumation"
+          ]
+        },
+        {
+          "Question": "Which marine mammal is known for its intelligence, playful nature, and use of tools?",
+          "answer": "Dolphin",
+          "num": 8,
+          "options": [
+            "Whale",
+            "Seal",
+            "Sea Lion",
+            "Dolphin"
+          ]
+        },
+        {
+          "Question": "What remarkable physical adaptation allows a chameleon to change its body color?",
+          "answer": "Specialized skin cells called chromatophores",
+          "num": 9,
+          "options": [
+            "Unique camouflage patterns",
+            "Ability to see ultraviolet light",
+            "Rapid skin regeneration",
+            "Specialized skin cells called chromatophores"
+          ]
+        },
+        {
+          "Question": "What flightless bird native to New Zealand is known for its loud calls and powerful legs?",
+          "answer": "Kiwi",
+          "num": 10,
+          "options": [
+            "Emu",
+            "Cassowary",
+            "Rhea",
+            "Kiwi"
+          ]
+        }
+      ]
+    },
+    "QUIZ_11": {
+      "Quiz_Desc": "From obscure facts to common knowledge, this quiz covers a wide range of trivia topics. Test your knowledge and see if you're a trivia whiz!",
+      "Quiz_Title": "Random Fact Frenzy",
+      "Quiz_id": "QUIZ_11",
+      "Quiz_sub": "Do You Know the Unexpected?",
+      "img": "imgs/rFacts.jpg",
+      "questions": [
+        {
+          "Question": "What is the national language of Canada?",
+          "answer": "English and French (officially bilingual)",
+          "num": 1,
+          "options": [
+            "English and French (officially bilingual)",
+            "French",
+            "Spanish",
+            "Mandarin Chinese"
+          ]
+        },
+        {
+          "Question": "What food was originally called 'tomato apples'?",
+          "answer": "Tomato",
+          "num": 2,
+          "options": [
+            "Potato",
+            "Eggplant",
+            "Avocado",
+            "Tomato"
+          ]
+        },
+        {
+          "Question": "What is the world's best-selling candy bar?",
+          "answer": "Snickers",
+          "num": 3,
+          "options": [
+            "Hershey's Chocolate Bar",
+            "M&M's",
+            "Mars Bar",
+            "Snickers"
+          ]
+        },
+        {
+          "Question": "What common household item was originally invented as a way to remove wallpaper?",
+          "answer": "Post-it Notes",
+          "num": 4,
+          "options": [
+            "Duct Tape",
+            "Stapler",
+            "Aluminum Foil",
+            "Post-it Notes"
+          ]
+        },
+        {
+          "Question": "What is the fear of holes called?",
+          "answer": "Trypophobia",
+          "num": 5,
+          "options": [
+            "Claustrophobia",
+            "Acrophobia",
+            "Agoraphobia",
+            "Trypophobia"
+          ]
+        },
+        {
+          "Question": "On which finger is a wedding ring traditionally worn?",
+          "answer": "Fourth finger (ring finger) of the left hand",
+          "num": 6,
+          "options": [
+            "Thumb",
+            "Index finger",
+            "Middle finger",
+            "Fourth finger (ring finger) of the left hand"
+          ]
+        },
+        {
+          "Question": "What is the world's quietest room located in?",
+          "answer": "Orfield Laboratories in Minneapolis, Minnesota",
+          "num": 7,
+          "options": [
+            "A library",
+            "An anechoic chamber",
+            "A recording studio",
+            "Orfield Laboratories in Minneapolis, Minnesota"
+          ]
+        },
+        {
+          "Question": "What is the name of the mathematical symbol ∞?",
+          "answer": "Infinity",
+          "num": 8,
+          "options": [
+            "Pi (π)",
+            "Percent (%)",
+            "Degree (°)",
+            "Infinity (∞)"
+          ]
+        },
+        {
+          "Question": "What fictional character is famous for saying 'Elementary, my dear Watson'?",
+          "answer": "Sherlock Holmes",
+          "num": 9,
+          "options": [
+            "Hercule Poirot",
+            "Dr. Emmett Brown",
+            "Sherlock Holmes",
+            "Gandalf"
+          ]
+        },
+        {
+          "Question": "What flightless bird is the closest relative of the ostrich?",
+          "answer": "Emu",
+          "num": 10,
+          "options": [
+            "Penguin",
+            "Kiwi",
+            "Cassowary",
+            "Emu"
+          ]
+        }
+      ]
+    },
+    "QUIZ_12": {
+      "Quiz_Desc": "From classic hits to modern tunes, this quiz covers a wide range of music genres. Test your knowledge and see if you're a music aficionado!",
+      "Quiz_Title": "Master of Melodies",
+      "Quiz_id": "QUIZ_12",
+      "Quiz_sub": "Test Your Musical Knowledge",
+      "img": "imgs/music.webp",
+      "questions": [
+        {
+          "Question": "Which instrument family does the violin belong to?",
+          "answer": "String instruments",
+          "num": 1,
+          "options": [
+            "String instruments",
+            "Woodwind instruments",
+            "Brass instruments",
+            "Percussion instruments"
+          ]
+        },
+        {
+          "Question": "What is the genre of music characterized by its rhythmic blues and improvisational elements?",
+          "answer": "Jazz",
+          "num": 2,
+          "options": [
+            "Rock",
+            "Country",
+            "Jazz",
+            "Classical"
+          ]
+        },
+        {
+          "Question": "What are the four main voices in a typical choir setting called?",
+          "answer": "Soprano, alto, tenor, and bass",
+          "num": 3,
+          "options": [
+            "Flute, clarinet, oboe, and bassoon",
+            "Violin, viola, cello, and double bass",
+            "Soprano, alto, tenor, and bass",
+            "Piano, guitar, drums, and bass"
+          ]
+        },
+        {
+          "Question": "Who is considered the 'King of Pop'?",
+          "answer": "Michael Jackson",
+          "num": 4,
+          "options": [
+            "Elvis Presley",
+            "The Beatles",
+            "Michael Jackson",
+            "Elton John"
+          ]
+        },
+        {
+          "Question": "What is the term used to describe music composed for a specific film?",
+          "answer": "Film score",
+          "num": 5,
+          "options": [
+            "Soundtrack (includes songs and score)",
+            "Theme song",
+            "Original music",
+            "Film score"
+          ]
+        },
+        {
+          "Question": "Which two musical notes together form an interval called an octave?",
+          "answer": "Any note and its repetition an octave higher (e.g., C and C one octave higher)",
+          "num": 6,
+          "options": [
+            "Consecutive notes (e.g., C and D)",
+            "Notes across five keys (e.g., C and F)",
+            "Any note and its repetition an octave higher (e.g., C and C one octave higher)",
+            "Notes played simultaneously for harmony"
+          ]
+        },
+        {
+          "Question": "What is the largest and deepest type of pipe organ?",
+          "answer": "Pipe organ",
+          "num": 7,
+          "options": [
+            "Harmonium",
+            "Clavichord",
+            "Spinet",
+            "Pipe organ"
+          ]
+        },
+        {
+          "Question": "Which is the longest-running Broadway musical in history?",
+          "answer": "The Phantom of the Opera",
+          "num": 8,
+          "options": [
+            "Les Misérables",
+            "Cats",
+            "The Phantom of the Opera",
+            "Chicago"
+          ]
+        },
+        {
+          "Question": "What is the term used for a group of singers performing together without instrumental accompaniment?",
+          "answer": "A cappella",
+          "num": 9,
+          "options": [
+            "Quartet",
+            "Choir",
+            "Orchestra",
+            "A cappella"
+          ]
+        },
+        {
+          "Question": "What country is known for its Samba music genre?",
+          "answer": "Brazil",
+          "num": 10,
+          "options": [
+            "Argentina",
+            "Cuba",
+            "Mexico",
+            "Brazil"
+          ]
+        }
+      ]
+    },
+    "QUIZ_13": {
+      "Quiz_Desc": "From iconic models to performance specs, this quiz covers all aspects of sports cars. Test your knowledge and see if you're a car enthusiast!",
+      "Quiz_Title": "Speed Freak",
+      "Quiz_id": "QUIZ_13",
+      "Quiz_sub": "Are You a Speed Demon?",
+      "img": "imgs/Cars.webp",
+      "questions": [
+        {
+          "Question": "Which Italian car manufacturer is known for its prancing horse logo?",
+          "answer": "Ferrari",
+          "num": 1,
+          "options": [
+            "Lamborghini",
+            "Maserati",
+            "Ferrari",
+            "Pagani"
+          ]
+        },
+        {
+          "Question": "What is the name of the open-top two-seater sports car design?",
+          "answer": "Roadster",
+          "num": 2,
+          "options": [
+            "Coupe",
+            "Sedan",
+            "Hatchback",
+            "Roadster"
+          ]
+        },
+        {
+          "Question": "What Japanese car manufacturer is famous for its lightweight, rear-wheel-drive sports cars?",
+          "answer": "Mazda",
+          "num": 3,
+          "options": [
+            "Toyota",
+            "Honda",
+            "Nissan",
+            "Mazda"
+          ]
+        },
+        {
+          "Question": "What is the term used for a retractable hardtop roof on a convertible car?",
+          "answer": "Retractable hardtop convertible",
+          "num": 4,
+          "options": [
+            "Soft top convertible",
+            "Targa top",
+            "Removable hardtop",
+            "Retractable hardtop convertible"
+          ]
+        },
+        {
+          "Question": "Which legendary American muscle car is nicknamed the 'Mustang'?",
+          "answer": "Ford Mustang",
+          "num": 5,
+          "options": [
+            "Chevrolet Camaro",
+            "Dodge Challenger",
+            "Ford Mustang",
+            "Plymouth Barracuda"
+          ]
+        },
+        {
+          "Question": "What is the name of the annual endurance race held near Le Mans, France?",
+          "answer": "24 Hours of Le Mans",
+          "num": 6,
+          "options": [
+            "Monaco Grand Prix",
+            "Indianapolis 500",
+            "Formula One World Championship",
+            "24 Hours of Le Mans"
+          ]
+        },
+        {
+          "Question": "What is the term used for a car with a mid-mounted engine, behind the driver's seat but in front of the rear axle?",
+          "answer": "Mid-engine car",
+          "num": 7,
+          "options": [
+            "Front-engine car",
+            "Rear-engine car",
+            "All-wheel drive car",
+            "Mid-engine car"
+          ]
+        },
+        {
+          "Question": "What German car manufacturer is known for its iconic 911 sports car model?",
+          "answer": "Porsche",
+          "num": 8,
+          "options": [
+            "Audi",
+            "BMW",
+            "Mercedes-Benz",
+            "Porsche"
+          ]
+        },
+        {
+          "Question": "What is the term used for a car that prioritizes performance and handling over practicality?",
+          "answer": "High-performance car",
+          "num": 9,
+          "options": [
+            "Luxury car",
+            "Family car",
+            "Sedan",
+            "High-performance car"
+          ]
+        },
+        {
+          "Question": "What Italian car manufacturer is known for its scissor doors that open vertically?",
+          "answer": "Lamborghini",
+          "num": 10,
+          "options": [
+            "Ferrari",
+            "Maserati",
+            "Pagani",
+            "Lamborghini"
+          ]
+        }
+      ]
+    },
+    "QUIZ_14": {
+      "Quiz_Desc": "From Latin roots to modern meanings, this quiz covers the fascinating world of etymology. Test your knowledge and see if you're a word wizard!",
+      "Quiz_Title": "Etymology Exploration",
+      "Quiz_id": "QUIZ_14",
+      "Quiz_sub": "Dive Into Word Origins",
+      "img": "imgs/Emytology.webp",
+      "questions": [
+        {
+          "Question": "What is the origin of the word 'etymology'?",
+          "answer": "Greek",
+          "num": 1,
+          "options": [
+            "Latin",
+            "Greek",
+            "French",
+            "German"
+          ]
+        },
+        {
+          "Question": "Which language does the word 'ketchup' originate from?",
+          "answer": "Chinese",
+          "num": 2,
+          "options": [
+            "Arabic",
+            "Chinese",
+            "Spanish",
+            "Swahili"
+          ]
+        },
+        {
+          "Question": "What does the word 'quiz' originally mean?",
+          "answer": "Odd person",
+          "num": 3,
+          "options": [
+            "Smart person",
+            "Interesting person",
+            "Odd person",
+            "Funny person"
+          ]
+        },
+        {
+          "Question": "Which ancient civilization is credited with inventing the alphabet?",
+          "answer": "Phoenicians",
+          "num": 4,
+          "options": [
+            "Romans",
+            "Greeks",
+            "Phoenicians",
+            "Egyptians"
+          ]
+        },
+        {
+          "Question": "What is the origin of the word 'avocado'?",
+          "answer": "Aztec",
+          "num": 5,
+          "options": [
+            "Inca",
+            "Mayan",
+            "Aztec",
+            "Taino"
+          ]
+        },
+        {
+          "Question": "Which language does the word 'bungalow' come from?",
+          "answer": "Bengali",
+          "num": 6,
+          "options": [
+            "Hindi",
+            "Bengali",
+            "Tamil",
+            "Malay"
+          ]
+        },
+        {
+          "Question": "What is the origin of the word 'safari'?",
+          "answer": "Swahili",
+          "num": 7,
+          "options": [
+            "Arabic",
+            "Swahili",
+            "Hindi",
+            "Zulu"
+          ]
+        },
+        {
+          "Question": "Which language is credited with creating the first dictionary?",
+          "answer": "Chinese",
+          "num": 8,
+          "options": [
+            "Latin",
+            "Greek",
+            "Chinese",
+            "Sanskrit"
+          ]
+        },
+        {
+          "Question": "What is the origin of the word 'robot'?",
+          "answer": "Czech",
+          "num": 9,
+          "options": [
+            "Russian",
+            "Czech",
+            "German",
+            "Japanese"
+          ]
+        },
+        {
+          "Question": "Which language does the word 'jungle' originate from?",
+          "answer": "Hindi",
+          "num": 10,
+          "options": [
+            "Swahili",
+            "Hindi",
+            "Malay",
+            "Tamil"
+          ]
+        }
+      ]
+    },
+    "QUIZ_15": {
+      "Quiz_Desc": "From ancient wonders to modern marvels, this quiz covers the most awe-inspiring sights on Earth. Test your knowledge and see if you're a world wonder enthusiast!",
+      "Quiz_Title": "Wonder Wanderer",
+      "Quiz_id": "QUIZ_15",
+      "Quiz_sub": "Test Your Knowledge of Global Marvels",
+      "img": "imgs/wonders.jpg",
+      "questions": [
+        {
+          "Question": "Which ancient wonder was located in the city of Babylon?",
+          "answer": "Hanging Gardens",
+          "num": 1,
+          "options": [
+            "Great Pyramid of Giza",
+            "Hanging Gardens",
+            "Colossus of Rhodes",
+            "Lighthouse of Alexandria"
+          ]
+        },
+        {
+          "Question": "Where is the archaeological site of Petra located?",
+          "answer": "Jordan",
+          "num": 2,
+          "options": [
+            "Egypt",
+            "Jordan",
+            "Greece",
+            "Turkey"
+          ]
+        },
+        {
+          "Question": "Which wonder is located in the city of Agra, India?",
+          "answer": "Taj Mahal",
+          "num": 3,
+          "options": [
+            "Taj Mahal",
+            "Machu Picchu",
+            "Great Wall of China",
+            "Statue of Liberty"
+          ]
+        },
+        {
+          "Question": "In which country would you find the Moai statues of Easter Island?",
+          "answer": "Chile",
+          "num": 4,
+          "options": [
+            "Chile",
+            "Peru",
+            "Brazil",
+            "Argentina"
+          ]
+        },
+        {
+          "Question": "What is the name of the ancient wonder that was a massive statue of the Greek sun god Helios?",
+          "answer": "Colossus of Rhodes",
+          "num": 5,
+          "options": [
+            "Great Pyramid of Giza",
+            "Hanging Gardens",
+            "Colossus of Rhodes",
+            "Lighthouse of Alexandria"
+          ]
+        },
+        {
+          "Question": "Which wonder is an ancient astronomical observatory located in India?",
+          "answer": "Jantar Mantar",
+          "num": 6,
+          "options": [
+            "Jantar Mantar",
+            "Stonehenge",
+            "Chichen Itza",
+            "Petra"
+          ]
+        },
+        {
+          "Question": "What is the name of the ancient city in Italy that was destroyed by the eruption of Mount Vesuvius?",
+          "answer": "Pompeii",
+          "num": 7,
+          "options": [
+            "Athens",
+            "Pompeii",
+            "Rome",
+            "Florence"
+          ]
+        },
+        {
+          "Question": "Which wonder is a massive wall built to protect against invasions from northern tribes?",
+          "answer": "Great Wall of China",
+          "num": 8,
+          "options": [
+            "Great Wall of China",
+            "Machu Picchu",
+            "Taj Mahal",
+            "Eiffel Tower"
+          ]
+        },
+        {
+          "Question": "Where is the Christ the Redeemer statue located?",
+          "answer": "Brazil",
+          "num": 9,
+          "options": [
+            "Brazil",
+            "Spain",
+            "Italy",
+            "France"
+          ]
+        },
+        {
+          "Question": "Which wonder is a series of ancient terraced agricultural sites in Peru?",
+          "answer": "Machu Picchu",
+          "num": 10,
+          "options": [
+            "Machu Picchu",
+            "Petra",
+            "Taj Mahal",
+            "Great Wall of China"
+          ]
+        }
+      ]
+    },
+    "QUIZ_16": {
+      "Quiz_Desc": "From basic concepts to advanced techniques, this quiz covers all aspects of the C programming language. Test your skills and see if you're a C programming master!",
+      "Quiz_Title": "C Coding Conqueror",
+      "Quiz_id": "QUIZ_16",
+      "Quiz_sub": "Are You a C Master?",
+      "img": "imgs/C.png",
+      "questions": [
+        {
+          "Question": "What is the correct way to declare a variable in C?",
+          "answer": "int x;",
+          "num": 1,
+          "options": [
+            "x = 5;",
+            "integer x;",
+            "int x;",
+            "declare x as integer;"
+          ]
+        },
+        {
+          "Question": "What is the output of the following code snippet?\n\n#include <stdio.h>\n\nint main() {\n    int x = 5;\n    printf(\"%d\", x++);\n    return 0;\n}",
+          "answer": "5",
+          "num": 2,
+          "options": [
+            "5",
+            "6",
+            "Compiler error",
+            "Undefined behavior"
+          ]
+        },
+        {
+          "Question": "Which of the following is a correct way to define a constant in C?",
+          "answer": "#define PI 3.14159",
+          "num": 3,
+          "options": [
+            "const float PI = 3.14159;",
+            "#define PI 3.14159",
+            "PI = 3.14159;",
+            "constant PI = 3.14159;"
+          ]
+        },
+        {
+          "Question": "What is the result of the expression 5 / 2 in C?",
+          "answer": "2",
+          "num": 4,
+          "options": [
+            "2.5",
+            "2",
+            "2.0",
+            "Compiler error"
+          ]
+        },
+        {
+          "Question": "What is the correct way to write a single-line comment in C?",
+          "answer": "// This is a comment",
+          "num": 5,
+          "options": [
+            "/* This is a comment */",
+            "# This is a comment",
+            "// This is a comment",
+            "' This is a comment"
+          ]
+        },
+        {
+          "Question": "Which header file is needed to use the printf function in C?",
+          "answer": "<stdio.h>",
+          "num": 6,
+          "options": [
+            "<stdlib.h>",
+            "<string.h>",
+            "<stdio.h>",
+            "<math.h>"
+          ]
+        },
+        {
+          "Question": "What is the correct way to allocate memory for an integer in C?",
+          "answer": "int *ptr = malloc(sizeof(int));",
+          "num": 7,
+          "options": [
+            "int *ptr = malloc(sizeof(int));",
+            "int *ptr = new int;",
+            "int *ptr = malloc(int);",
+            "int *ptr = malloc(sizeof(int *));"
+          ]
+        },
+        {
+          "Question": "What does the following code snippet do?\n\nint x = 10;\nint *ptr = &x;\n*ptr = 20;",
+          "answer": "Changes the value of x to 20",
+          "num": 8,
+          "options": [
+            "Changes the value of ptr to 20",
+            "Changes the value of x to 20",
+            "Causes a segmentation fault",
+            "Compiler error"
+          ]
+        },
+        {
+          "Question": "Which of the following is not a valid data type in C?",
+          "answer": "real",
+          "num": 9,
+          "options": [
+            "int",
+            "float",
+            "char",
+            "real"
+          ]
+        },
+        {
+          "Question": "What is the purpose of the 'break' statement in a switch statement?",
+          "answer": "To exit the switch statement",
+          "num": 10,
+          "options": [
+            "To skip the current case",
+            "To continue to the next case",
+            "To exit the loop",
+            "To exit the switch statement"
+          ]
+        }
+      ]
+    },
+    "QUIZ_17": {
+      "Quiz_Desc": "From classic titles to modern franchises, this quiz covers a wide range of video game trivia. Test your knowledge and see if you're a gaming expert!",
+      "Quiz_Title": "Video Game Guru",
+      "Quiz_id": "QUIZ_17",
+      "Quiz_sub": "are you a Video Game Maven",
+      "img": "imgs/games.jpg",
+      "questions": [
+        {
+          "Question": "Which iconic video game character is known for eating ghosts?",
+          "answer": "Pac-Man",
+          "num": 1,
+          "options": [
+            "Mario",
+            "Sonic the Hedgehog",
+            "Pac-Man",
+            "Donkey Kong"
+          ]
+        },
+        {
+          "Question": "What is the best-selling video game of all time?",
+          "answer": "Minecraft",
+          "num": 2,
+          "options": [
+            "Tetris",
+            "Minecraft",
+            "Grand Theft Auto V",
+            "Wii Sports"
+          ]
+        },
+        {
+          "Question": "Which video game console was the first to feature a built-in hard drive?",
+          "answer": "Sega Dreamcast",
+          "num": 3,
+          "options": [
+            "PlayStation 2",
+            "Xbox 360",
+            "Sega Dreamcast",
+            "Nintendo 64"
+          ]
+        },
+        {
+          "Question": "Which popular video game franchise features a character named Master Chief?",
+          "answer": "Halo",
+          "num": 4,
+          "options": [
+            "Call of Duty",
+            "Halo",
+            "Battlefield",
+            "Gears of War"
+          ]
+        },
+        {
+          "Question": "What is the name of the fictional city where Grand Theft Auto V takes place?",
+          "answer": "Los Santos",
+          "num": 5,
+          "options": [
+            "Liberty City",
+            "Vice City",
+            "Los Santos",
+            "San Andreas"
+          ]
+        },
+        {
+          "Question": "Which video game series features a character named Link?",
+          "answer": "The Legend of Zelda",
+          "num": 6,
+          "options": [
+            "Final Fantasy",
+            "The Legend of Zelda",
+            "Super Mario",
+            "Metroid"
+          ]
+        },
+        {
+          "Question": "What is the name of the main antagonist in the Resident Evil series?",
+          "answer": "Albert Wesker",
+          "num": 7,
+          "options": [
+            "Nemesis",
+            "Albert Wesker",
+            "William Birkin",
+            "Alexia Ashford"
+          ]
+        },
+        {
+          "Question": "Which video game introduced the concept of 'bullet time'?",
+          "answer": "Max Payne",
+          "num": 8,
+          "options": [
+            "Half-Life",
+            "Max Payne",
+            "Doom",
+            "Quake"
+          ]
+        },
+        {
+          "Question": "What is the name of the high-fantasy universe in which the Warcraft series is set?",
+          "answer": "Azeroth",
+          "num": 9,
+          "options": [
+            "Azeroth",
+            "Middle-earth",
+            "Westeros",
+            "Tamriel"
+          ]
+        },
+        {
+          "Question": "Which video game features a character named Nathan Drake?",
+          "answer": "Uncharted",
+          "num": 10,
+          "options": [
+            "Assassin's Creed",
+            "Uncharted",
+            "The Last of Us",
+            "Metal Gear Solid"
+          ]
+        }
+      ]
+    },
+    "QUIZ_18": {
+      "Quiz_Desc": "From ancient origins to modern games, this quiz covers the history and highlights of the Olympic Games. Test your knowledge and see if you're an Olympics enthusiast!",
+      "Quiz_Title": "Olympic Oracle",
+      "Quiz_id": "QUIZ_18",
+      "Quiz_sub": "Compete in the ultimate Olympics trivia challenge!",
+      "img": "imgs/olympics.jpg",
+      "questions": [
+        {
+          "Question": "In which year were the first modern Olympic Games held?",
+          "answer": "1896",
+          "num": 1,
+          "options": [
+            "1892",
+            "1896",
+            "1900",
+            "1904"
+          ]
+        },
+        {
+          "Question": "Which city has hosted the Olympics three times?",
+          "answer": "London",
+          "num": 2,
+          "options": [
+            "Paris",
+            "London",
+            "Los Angeles",
+            "Tokyo"
+          ]
+        },
+        {
+          "Question": "Which country has won the most medals in the history of the Summer Olympics?",
+          "answer": "United States",
+          "num": 3,
+          "options": [
+            "China",
+            "Soviet Union",
+            "United States",
+            "Germany"
+          ]
+        },
+        {
+          "Question": "What is the Olympic motto?",
+          "answer": "Citius, Altius, Fortius",
+          "num": 4,
+          "options": [
+            "Faster, Higher, Stronger",
+            "Unity in Diversity",
+            "Celebrating Humanity",
+            "Citius, Altius, Fortius"
+          ]
+        },
+        {
+          "Question": "Which athlete has won the most Olympic gold medals?",
+          "answer": "Michael Phelps",
+          "num": 5,
+          "options": [
+            "Usain Bolt",
+            "Michael Phelps",
+            "Carl Lewis",
+            "Larisa Latynina"
+          ]
+        },
+        {
+          "Question": "In which sport can athletes compete for a 'grand slam' by winning all four major events in a single year?",
+          "answer": "Tennis",
+          "num": 6,
+          "options": [
+            "Swimming",
+            "Athletics",
+            "Tennis",
+            "Gymnastics"
+          ]
+        },
+        {
+          "Question": "Which country has won the most medals in the history of the Winter Olympics?",
+          "answer": "Norway",
+          "num": 7,
+          "options": [
+            "Canada",
+            "Russia",
+            "Norway",
+            "Germany"
+          ]
+        },
+        {
+          "Question": "Which city was awarded the 2024 Summer Olympics?",
+          "answer": "Paris",
+          "num": 8,
+          "options": [
+            "Tokyo",
+            "Rio de Janeiro",
+            "Paris",
+            "Los Angeles"
+          ]
+        },
+        {
+          "Question": "Which Olympic Games were the first to be televised?",
+          "answer": "1936 Berlin Olympics",
+          "num": 9,
+          "options": [
+            "1924 Paris Olympics",
+            "1932 Los Angeles Olympics",
+            "1936 Berlin Olympics",
+            "1948 London Olympics"
+          ]
+        },
+        {
+          "Question": "What is the name of the Olympic flame lighting ceremony held in Olympia, Greece?",
+          "answer": "Olympic Torch Relay",
+          "num": 10,
+          "options": [
+            "Olympic Torch Relay",
+            "Opening Ceremony",
+            "Flame Lighting Ceremony",
+            "Ancient Ritual of Fire"
+          ]
+        }
+      ]
+    },
+    "QUIZ_19": {
+      "Quiz_Desc": "From Egypt to Rome, this quiz covers the fascinating history of ancient civilizations. Test your knowledge and see if you're a history buff!",
+      "Quiz_Title": "Ancient Sage",
+      "Quiz_id": "QUIZ_19",
+      "Quiz_sub": "Test Your Knowledge of the Ancient World",
+      "img": "imgs/ancient.jpg",
+      "questions": [
+        {
+          "Question": "Which ancient civilization built the Great Pyramids of Giza?",
+          "answer": "Ancient Egyptians",
+          "num": 1,
+          "options": [
+            "Ancient Greeks",
+            "Ancient Egyptians",
+            "Ancient Romans",
+            "Mesopotamians"
+          ]
+        },
+        {
+          "Question": "What is the name of the ancient Mesopotamian writing system?",
+          "answer": "Cuneiform",
+          "num": 2,
+          "options": [
+            "Hieroglyphics",
+            "Cuneiform",
+            "Alphabet",
+            "Pictograms"
+          ]
+        },
+        {
+          "Question": "Which ancient civilization built the city of Machu Picchu?",
+          "answer": "Inca",
+          "num": 3,
+          "options": [
+            "Maya",
+            "Inca",
+            "Aztec",
+            "Moche"
+          ]
+        },
+        {
+          "Question": "Which ancient civilization is known for its terracotta army?",
+          "answer": "Ancient Chinese",
+          "num": 4,
+          "options": [
+            "Ancient Egyptians",
+            "Ancient Greeks",
+            "Ancient Romans",
+            "Ancient Chinese"
+          ]
+        },
+        {
+          "Question": "What is the name of the ancient Indian epic poem that tells the story of the prince Rama?",
+          "answer": "Ramayana",
+          "num": 5,
+          "options": [
+            "Mahabharata",
+            "Ramayana",
+            "Arthashastra",
+            "Bhagavad Gita"
+          ]
+        },
+        {
+          "Question": "Which ancient civilization built the city of Caral, the oldest city in the Americas?",
+          "answer": "Norte Chico",
+          "num": 6,
+          "options": [
+            "Olmec",
+            "Norte Chico",
+            "Moche",
+            "Chavin"
+          ]
+        },
+        {
+          "Question": "What is the name of the ancient Egyptian sun god?",
+          "answer": "Ra",
+          "num": 7,
+          "options": [
+            "Osiris",
+            "Ra",
+            "Isis",
+            "Horus"
+          ]
+        },
+        {
+          "Question": "Which ancient civilization built the city of Babylon?",
+          "answer": "Mesopotamians",
+          "num": 8,
+          "options": [
+            "Ancient Egyptians",
+            "Ancient Greeks",
+            "Mesopotamians",
+            "Persians"
+          ]
+        },
+        {
+          "Question": "What is the name of the ancient city in modern-day Turkey that was home to the Temple of Artemis, one of the Seven Wonders of the Ancient World?",
+          "answer": "Ephesus",
+          "num": 9,
+          "options": [
+            "Sparta",
+            "Ephesus",
+            "Troy",
+            "Byzantium"
+          ]
+        },
+        {
+          "Question": "Which ancient civilization is known for constructing the Nazca Lines in Peru?",
+          "answer": "Nazca",
+          "num": 10,
+          "options": [
+            "Nazca",
+            "Moche",
+            "Chimu",
+            "Inca"
+          ]
+        }
+      ]
+    },
+    "QUIZ_2": {
+      "Quiz_Desc": "Explore the world of mma with this challenging quiz. From legendary fighters to historic bouts, this quiz is sure to test your UFC knowledge!",
+      "Quiz_Title": "Octagon Quest",
+      "Quiz_id": "QUIZ_2",
+      "Quiz_sub": "Step into the Octagon with this ultimate UFC quiz!",
+      "img": "imgs/mma.jpg",
+      "questions": [
+        {
+          "Question": "Nicknamed 'The Notorious', which Irish UFC fighter is known for his trash talk and knockout power?",
+          "answer": "Conor McGregor",
+          "num": 1,
+          "options": [
+            "Conor McGregor",
+            "Jon Jones",
+            "Israel Adesanya",
+            "Amanda Nunes"
+          ]
+        },
+        {
+          "Question": "Holding the record for most title defenses in UFC history (13), this Brazilian legend is known for her dominant Jiu-Jitsu skills. Who is she?",
+          "answer": "Amanda Nunes",
+          "num": 2,
+          "options": [
+            "Amanda Nunes",
+            "Cris Cyborg",
+            "Valentina Shevchenko",
+            "Rose Namajunas"
+          ]
+        },
+        {
+          "Question": "Who is the first and only fighter in UFC history to win championships in two different weight classes simultaneously?",
+          "answer": "Conor McGregor (Featherweight & Lightweight)",
+          "num": 3,
+          "options": [
+            "Conor McGregor (Featherweight & Lightweight)",
+            "Georges St-Pierre (Welterweight & Middleweight)",
+            "Amanda Nunes (Bantamweight & Featherweight)",
+            "Daniel Cormier (Light Heavyweight & Heavyweight)"
+          ]
+        },
+        {
+          "Question": "Known for his flashy spinning kicks and knockout power, which Nigerian middleweight fighter is nicknamed 'The Stylebender'?",
+          "answer": "Israel Adesanya",
+          "num": 4,
+          "options": [
+            "Israel Adesanya",
+            "Kamaru Usman",
+            "Francis Ngannou",
+            "Ciryl Gane"
+          ]
+        },
+        {
+          "Question": "This American wrestler turned MMA fighter holds the record for most takedowns in UFC history. Who is he?",
+          "answer": "Daniel Cormier",
+          "num": 5,
+          "options": [
+            "Daniel Cormier",
+            "Khabib Nurmagomedov",
+            "Ben Askren",
+            "Colby Covington"
+          ]
+        },
+        {
+          "Question": "Nicknamed 'The Eagle', this undefeated lightweight champion retired with a perfect 29-0 record. Who is he?",
+          "answer": "Khabib Nurmagomedov",
+          "num": 6,
+          "options": [
+            "Khabib Nurmagomedov",
+            "Justin Gaethje",
+            "Charles Oliveira",
+            "Dustin Poirier"
+          ]
+        },
+        {
+          "Question": "This former two-division champion from the United States is known for his well-rounded skillset and dominance in the welterweight division. Who is he?",
+          "answer": "Georges St-Pierre",
+          "num": 7,
+          "options": [
+            "Georges St-Pierre",
+            "Tyron Woodley",
+            "Kamaru Usman",
+            "Robbie Lawler"
+          ]
+        },
+        {
+          "Question": "This hulking heavyweight champion from France is known for his devastating knockout power. Who is he?",
+          "answer": "Francis Ngannou",
+          "num": 8,
+          "options": [
+            "Francis Ngannou",
+            "Stipe Miocic",
+            "Derrick Lewis",
+            "Ciryl Gane"
+          ]
+        },
+        {
+          "Question": "Which Brazilian fighter holds the record for most knockouts in UFC women's bantamweight history?",
+          "answer": "Amanda Nunes",
+          "num": 9,
+          "options": [
+            "Amanda Nunes",
+            "Holly Holm",
+            "Germaine de Randamie",
+            "Julianna Peña"
+          ]
+        },
+        {
+          "Question": "Known for his unique fighting style that blends elements of capoeira, Muay Thai, and wrestling, who is this Brazilian middleweight contender nicknamed 'Showtime'?",
+          "answer": "Paulo Costa",
+          "num": 10,
+          "options": [
+            "Paulo Costa",
+            "Glover Teixeira",
+            "Santos",
+            "Alex Pereira"
+          ]
+        }
+      ]
+    },
+    "QUIZ_20": {
+      "Quiz_Desc": "From politics to pop culture, this quiz covers the latest happenings around the world. Test your knowledge and see if you're up to date with current affairs!",
+      "Quiz_Title": "News Ninja",
+      "Quiz_id": "QUIZ_20",
+      "Quiz_sub": "Stay updated with this current affairs quiz!",
+      "img": "imgs/current.avif",
+      "questions": [
+        {
+          "Question": "Which country recently became the first in the world to approve a COVID-19 vaccine for children under 12?",
+          "answer": "China",
+          "num": 1,
+          "options": [
+            "United States",
+            "China",
+            "United Kingdom",
+            "Germany"
+          ]
+        },
+        {
+          "Question": "Who won the 2021 Nobel Peace Prize for their efforts to combat famine?",
+          "answer": "World Food Programme (WFP)",
+          "num": 2,
+          "options": [
+            "Greta Thunberg",
+            "World Health Organization (WHO)",
+            "World Food Programme (WFP)",
+            "Malala Yousafzai"
+          ]
+        },
+        {
+          "Question": "Which country recently launched the first crewed mission to its space station?",
+          "answer": "China",
+          "num": 3,
+          "options": [
+            "United States",
+            "China",
+            "Russia",
+            "European Space Agency (ESA)"
+          ]
+        },
+        {
+          "Question": "What major climate conference took place in Glasgow, Scotland, in 2021?",
+          "answer": "COP26",
+          "num": 4,
+          "options": [
+            "COP21",
+            "COP22",
+            "COP23",
+            "COP26"
+          ]
+        },
+        {
+          "Question": "Which social media platform recently announced it was shutting down its popular 'Fleets' feature?",
+          "answer": "Twitter",
+          "num": 5,
+          "options": [
+            "Facebook",
+            "Twitter",
+            "Instagram",
+            "Snapchat"
+          ]
+        },
+        {
+          "Question": "Which country recently experienced widespread protests following a military coup?",
+          "answer": "Myanmar",
+          "num": 6,
+          "options": [
+            "Myanmar",
+            "Thailand",
+            "Vietnam",
+            "Cambodia"
+          ]
+        },
+        {
+          "Question": "Who won the 2021 UEFA European Championship in football?",
+          "answer": "Italy",
+          "num": 7,
+          "options": [
+            "England",
+            "Italy",
+            "France",
+            "Germany"
+          ]
+        },
+        {
+          "Question": "Which global event was postponed for the first time in its history due to the COVID-19 pandemic?",
+          "answer": "Tokyo 2020 Olympics",
+          "num": 8,
+          "options": [
+            "FIFA World Cup",
+            "Tokyo 2020 Olympics",
+            "UEFA European Championship",
+            "Summer Paralympics"
+          ]
+        },
+        {
+          "Question": "Which tech company recently announced plans to split its stock?",
+          "answer": "Apple",
+          "num": 9,
+          "options": [
+            "Amazon",
+            "Apple",
+            "Google",
+            "Microsoft"
+          ]
+        },
+        {
+          "Question": "Which African country recently experienced a military coup resulting in the ousting of its president?",
+          "answer": "Mali",
+          "num": 10,
+          "options": [
+            "Mali",
+            "Nigeria",
+            "Ethiopia",
+            "Democratic Republic of the Congo"
+          ]
+        }
+      ]
+    },
+    "QUIZ_3": {
+      "Quiz_Desc": "From the origins of the beautiful game to modern-day legends, this quiz covers the rich history of football. Put your knowledge to the test and see how much you know about the sport's past!",
+      "Quiz_Title": "Footy Time Warp",
+      "Quiz_id": "QUIZ_3",
+      "Quiz_sub": "Take a trip down football's memory lane!",
+      "img": "imgs/football.png",
+      "questions": [
+        {
+          "Question": "In what year was the first-ever FIFA World Cup held?",
+          "answer": "1930",
+          "num": 1,
+          "options": [
+            "1930",
+            "1914",
+            "1950",
+            "1970"
+          ]
+        },
+        {
+          "Question": "Which South American country hosted and won the inaugural FIFA World Cup?",
+          "answer": "Uruguay",
+          "num": 2,
+          "options": [
+            "Uruguay",
+            "Argentina",
+            "Brazil",
+            "Chile"
+          ]
+        },
+        {
+          "Question": "What was the original name of the competition now known as the UEFA Champions League?",
+          "answer": "European Champion Clubs' Cup",
+          "num": 3,
+          "options": [
+            "European Champion Clubs' Cup",
+            "European Cup",
+            "Champions League",
+            "UEFA Cup"
+          ]
+        },
+        {
+          "Question": "Who is credited with creating the modern laws of association football in the 1860s?",
+          "answer": "Ebenezer Cobb Morley",
+          "num": 4,
+          "options": [
+            "Ebenezer Cobb Morley",
+            "Jules Rimet",
+            "Sepp Blatter",
+            "Johann Cruyff"
+          ]
+        },
+        {
+          "Question": "Which historical event caused the cancellation of the 1942 and 1946 FIFA World Cups?",
+          "answer": "World War II",
+          "num": 5,
+          "options": [
+            "World War II",
+            "The Great Depression",
+            "The Cold War",
+            "The Olympic Games"
+          ]
+        },
+        {
+          "Question": "Which legendary Brazilian footballer won a record three FIFA World Cup titles as a player (1958, 1962, and 1970)?",
+          "answer": "Pelé",
+          "num": 6,
+          "options": [
+            "Pelé",
+            "Garrincha",
+            "Ronaldo",
+            "Cafu"
+          ]
+        },
+        {
+          "Question": "In which decade was the offside rule significantly changed to require attackers to be level with the second-to-last defender?",
+          "answer": "1920s",
+          "num": 7,
+          "options": [
+            "1920s",
+            "1880s",
+            "1950s",
+            "1990s"
+          ]
+        },
+        {
+          "Question": "What major European competition was established in 1955 as a response to the deadly air disaster involving Manchester United?",
+          "answer": "European Cup Winners' Cup",
+          "num": 8,
+          "options": [
+            "European Cup Winners' Cup",
+            "European Champion Clubs' Cup",
+            "UEFA Europa League",
+            "UEFA Champions League"
+          ]
+        },
+        {
+          "Question": "The first-ever FIFA World Cup held outside of South America and Europe was in which country?",
+          "answer": "Mexico",
+          "num": 9,
+          "options": [
+            "Mexico",
+            "United States",
+            "Japan",
+            "South Africa"
+          ]
+        },
+        {
+          "Question": "Who is widely considered to be the first truly global football superstar?",
+          "answer": "Pelé",
+          "num": 10,
+          "options": [
+            "Pelé",
+            "Diego Maradona",
+            "Franz Beckenbauer",
+            "Sir Bobby Charlton"
+          ]
+        }
+      ]
+    },
+    "QUIZ_4": {
+      "Quiz_Desc": "From heavyweight clashes to iconic rivalries, this quiz covers the thrilling world of modern boxing. Test your knowledge and see if you're a boxing aficionado!",
+      "Quiz_Title": "Boxing Blitz",
+      "Quiz_id": "QUIZ_4",
+      "Quiz_sub": "Test Your Knowledge of Modern Boxing",
+      "img": "imgs/boxing.jpg",
+      "questions": [
+        {
+          "Question": "Which boxer holds the record for the fastest knockout in a world title fight, at just 1.91 seconds?",
+          "answer": "Gervonta Davis",
+          "num": 1,
+          "options": [
+            "Saul 'Canelo' Alvarez",
+            "Vasyl Lomachenko",
+            "Gervonta Davis",
+            "Terence Crawford"
+          ]
+        },
+        {
+          "Question": "Who is the current unified heavyweight champion, holding the WBA (Super), IBF, WBO, and IBO titles?",
+          "answer": "Oleksandr Usyk",
+          "num": 2,
+          "options": [
+            "Anthony Joshua",
+            "Deontay Wilder",
+            "Tyson Fury",
+            "Oleksandr Usyk"
+          ]
+        },
+        {
+          "Question": "Which boxer defeated Manny Pacquiao in 2021 to become the WBA (Super) welterweight champion?",
+          "answer": "Yordenis Ugas",
+          "num": 3,
+          "options": [
+            "Errol Spence Jr.",
+            "Keith Thurman",
+            "Shawn Porter",
+            "Yordenis Ugas"
+          ]
+        },
+        {
+          "Question": "Who became the first four-belt undisputed champion in the junior welterweight division in 2021?",
+          "answer": "Josh Taylor",
+          "num": 4,
+          "options": [
+            "Jose Ramirez",
+            "Regis Prograis",
+            "Josh Taylor",
+            "Teofimo Lopez"
+          ]
+        },
+        {
+          "Question": "Which boxer holds the record for the most consecutive title defenses in the super middleweight division?",
+          "answer": "Saul 'Canelo' Alvarez",
+          "num": 5,
+          "options": [
+            "Gennady Golovkin",
+            "Andre Ward",
+            "Saul 'Canelo' Alvarez",
+            "Floyd Mayweather Jr."
+          ]
+        },
+        {
+          "Question": "Who is the current WBC lightweight champion, known for his exciting style and knockout power?",
+          "answer": "Devin Haney",
+          "num": 6,
+          "options": [
+            "Ryan Garcia",
+            "Devin Haney",
+            "Teofimo Lopez",
+            "Gervonta Davis"
+          ]
+        },
+        {
+          "Question": "Which boxer defeated Anthony Joshua in 2021 to become the unified heavyweight champion?",
+          "answer": "Oleksandr Usyk",
+          "num": 7,
+          "options": [
+            "Tyson Fury",
+            "Deontay Wilder",
+            "Andy Ruiz Jr.",
+            "Oleksandr Usyk"
+          ]
+        },
+        {
+          "Question": "Who is the first boxer in history to hold all four major world titles (WBA, WBC, IBF, WBO) simultaneously in two weight classes?",
+          "answer": "Claressa Shields",
+          "num": 8,
+          "options": [
+            "Terence Crawford",
+            "Vasyl Lomachenko",
+            "Canelo Alvarez",
+            "Claressa Shields"
+          ]
+        },
+        {
+          "Question": "Which boxer became the first to defeat Roman 'Chocolatito' Gonzalez in a professional bout in 2021?",
+          "answer": "Juan Francisco Estrada",
+          "num": 9,
+          "options": [
+            "Srisaket Sor Rungvisai",
+            "Kazuto Ioka",
+            "Carlos Cuadras",
+            "Juan Francisco Estrada"
+          ]
+        },
+        {
+          "Question": "Who is the current WBO welterweight champion, known for his aggressive fighting style?",
+          "answer": "Terence Crawford",
+          "num": 10,
+          "options": [
+            "Keith Thurman",
+            "Errol Spence Jr.",
+            "Shawn Porter",
+            "Terence Crawford"
+          ]
+        }
+      ]
+    },
+    "QUIZ_5": {
+      "Quiz_Desc": "From basic syntax to advanced concepts, this quiz covers all aspects of the C++ programming language. Test your skills and see if you're a C++ guru!",
+      "Quiz_Title": "C++ Challenge",
+      "Quiz_id": "QUIZ_5",
+      "Quiz_sub": "Test Your Knowledge of C++ Programming",
+      "img": "imgs/cpp.jpg",
+      "questions": [
+        {
+          "Question": "Which of the following is not a fundamental data type in C++?",
+          "answer": "String",
+          "num": 1,
+          "options": [
+            "Int",
+            "Float",
+            "Double",
+            "String"
+          ]
+        },
+        {
+          "Question": "What is the output of the following code snippet?\n\n```\n#include <iostream>\nint main() {\n    int x = 5;\n    std::cout << x++ << \" \" << ++x;\n    return 0;\n}\n```",
+          "answer": "5 7",
+          "num": 2,
+          "options": [
+            "6 6",
+            "5 6",
+            "5 7",
+            "6 7"
+          ]
+        },
+        {
+          "Question": "Which keyword is used to dynamically allocate memory in C++?",
+          "answer": "new",
+          "num": 3,
+          "options": [
+            "alloc",
+            "create",
+            "new",
+            "malloc"
+          ]
+        },
+        {
+          "Question": "What is the correct way to declare a pointer in C++?",
+          "answer": "int *ptr;",
+          "num": 4,
+          "options": [
+            "ptr int;",
+            "pointer int;",
+            "int *ptr;",
+            "int ptr*;"
+          ]
+        },
+        {
+          "Question": "What is the purpose of the 'break' statement in a switch statement?",
+          "answer": "To exit the switch statement",
+          "num": 5,
+          "options": [
+            "To skip the current iteration of the loop",
+            "To terminate the program",
+            "To exit the function",
+            "To exit the switch statement"
+          ]
+        },
+        {
+          "Question": "Which header file is used to work with input and output operations in C++?",
+          "answer": "iostream",
+          "num": 6,
+          "options": [
+            "stdio.h",
+            "stdlib.h",
+            "math.h",
+            "iostream"
+          ]
+        },
+        {
+          "Question": "What is the correct syntax for declaring and defining a function in C++?",
+          "answer": "returnType functionName(parameters) { // function body }",
+          "num": 7,
+          "options": [
+            "functionName(parameters) { // function body } returnType",
+            "returnType functionName { // function body }",
+            "returnType functionName(parameters) { // function body }",
+            "functionName(parameters) returnType { // function body }"
+          ]
+        },
+        {
+          "Question": "Which of the following is the correct way to pass arguments by reference in C++?",
+          "answer": "void functionName(int &x)",
+          "num": 8,
+          "options": [
+            "void functionName(int x)",
+            "void functionName(&x)",
+            "void functionName(int *x)",
+            "void functionName(int &x)"
+          ]
+        },
+        {
+          "Question": "What is the purpose of the 'static' keyword in C++?",
+          "answer": "To declare static variables and functions",
+          "num": 9,
+          "options": [
+            "To make variables immutable",
+            "To allocate memory dynamically",
+            "To declare static variables and functions",
+            "To access class members"
+          ]
+        },
+        {
+          "Question": "Which operator is used to access the member functions and variables of an object in C++?",
+          "answer": "Dot operator (.)",
+          "num": 10,
+          "options": [
+            "Arrow operator (->)",
+            "Double colon (::)",
+            "Dot operator (.)",
+            "Scope resolution operator (::)"
+          ]
+        }
+      ]
+    },
+    "QUIZ_6": {
+      "Quiz_Desc": "From continents to capitals, this quiz explores the diverse world of geography. Test your knowledge and see if you're a geography whiz!",
+      "Quiz_Title": "Geo Quest",
+      "Quiz_id": "QUIZ_6",
+      "Quiz_sub": "Test Your Geographical Knowledge",
+      "img": "imgs/Geo.jpg",
+      "questions": [
+        {
+          "Question": "Which is the world's longest river?",
+          "answer": "Nile River",
+          "num": 1,
+          "options": [
+            "Amazon River",
+            "Yangtze River",
+            "Nile River",
+            "Mississippi-Missouri River System"
+          ]
+        },
+        {
+          "Question": "On which continent is the world's highest mountain peak, Mount Everest, located?",
+          "answer": "Asia",
+          "num": 2,
+          "options": [
+            "Africa",
+            "South America",
+            "Asia",
+            "North America"
+          ]
+        },
+        {
+          "Question": "Which ocean separates North and South America?",
+          "answer": "Atlantic Ocean",
+          "num": 3,
+          "options": [
+            "Pacific Ocean",
+            "Arctic Ocean",
+            "Atlantic Ocean",
+            "Indian Ocean"
+          ]
+        },
+        {
+          "Question": "What is the capital city of France?",
+          "answer": "Paris",
+          "num": 4,
+          "options": [
+            "London",
+            "Berlin",
+            "Rome",
+            "Paris"
+          ]
+        },
+        {
+          "Question": "Which country is known as the 'Land of the Rising Sun'?",
+          "answer": "Japan",
+          "num": 5,
+          "options": [
+            "China",
+            "South Korea",
+            "India",
+            "Japan"
+          ]
+        },
+        {
+          "Question": "Which is the largest desert in the world?",
+          "answer": "Sahara Desert",
+          "num": 6,
+          "options": [
+            "Gobi Desert",
+            "Australian Outback",
+            "Sahara Desert",
+            "Kalahari Desert"
+          ]
+        },
+        {
+          "Question": "What is the name of the famous canal that connects the Atlantic and Pacific Oceans?",
+          "answer": "Panama Canal",
+          "num": 7,
+          "options": [
+            "Suez Canal",
+            "Kiel Canal",
+            "Panama Canal",
+            "English Channel"
+          ]
+        },
+        {
+          "Question": "Which country has the most time zones?",
+          "answer": "France (including territories)",
+          "num": 8,
+          "options": [
+            "Russia",
+            "United States (including territories)",
+            "Canada",
+            "France (including territories)"
+          ]
+        },
+        {
+          "Question": "What is the tallest mountain in the solar system?",
+          "answer": "Olympus Mons (on Mars)",
+          "num": 9,
+          "options": [
+            "Mount Everest (Earth)",
+            "K2 (Earth)",
+            "Kangchenjunga (Earth)",
+            "Olympus Mons (on Mars)"
+          ]
+        },
+        {
+          "Question": "Which large body of water almost completely surrounds Antarctica?",
+          "answer": "Southern Ocean",
+          "num": 10,
+          "options": [
+            "Arctic Ocean",
+            "Atlantic Ocean",
+            "Pacific Ocean",
+            "Southern Ocean"
+          ]
+        }
+      ]
+    },
+    "QUIZ_7": {
+      "Quiz_Desc": "From tags to attributes, this quiz covers all aspects of HTML. Test your knowledge and see if you're a coding pro!",
+      "Quiz_Title": "HTML Maestro",
+      "Quiz_id": "QUIZ_7",
+      "Quiz_sub": "Master the Building Blocks of the Web",
+      "img": "imgs/HTML.jpg",
+      "questions": [
+        {
+          "Question": "What is the correct way to define the document type in HTML?",
+          "answer": "<!DOCTYPE html>",
+          "num": 1,
+          "options": [
+            "<html>",
+            "<head>",
+            "<!DOCTYPE html>",
+            "<body>"
+          ]
+        },
+        {
+          "Question": "Which element is used to contain the main content of a webpage?",
+          "answer": "<body>",
+          "num": 2,
+          "options": [
+            "<head>",
+            "<title>",
+            "<body>",
+            "<section>"
+          ]
+        },
+        {
+          "Question": "What attribute is used to specify the title of a webpage?",
+          "answer": "title",
+          "num": 3,
+          "options": [
+            "id",
+            "class",
+            "src",
+            "title"
+          ]
+        },
+        {
+          "Question": "How do you create a heading in HTML?",
+          "answer": "Using heading tags (h1-h6)",
+          "num": 4,
+          "options": [
+            "<b> tag",
+            "<h1> tag",
+            "Using heading tags (h1-h6)",
+            "<title> tag"
+          ]
+        },
+        {
+          "Question": "What tag is used to display an image on a webpage?",
+          "answer": "<img>",
+          "num": 5,
+          "options": [
+            "<image>",
+            "<picture>",
+            "<img>",
+            "<photo>"
+          ]
+        },
+        {
+          "Question": "Which attribute specifies the source of an image in the <img> tag?",
+          "answer": "src",
+          "num": 6,
+          "options": [
+            "href",
+            "alt",
+            "src",
+            "width"
+          ]
+        },
+        {
+          "Question": "How do you create a hyperlink in HTML?",
+          "answer": "Using the <a> tag with href attribute",
+          "num": 7,
+          "options": [
+            "Using the <url> tag",
+            "Using CSS",
+            "Using the <a> tag with href attribute",
+            "Underlining text"
+          ]
+        },
+        {
+          "Question": "What attribute specifies the destination URL of a hyperlink?",
+          "answer": "href",
+          "num": 8,
+          "options": [
+            "link",
+            "url",
+            "href",
+            "to"
+          ]
+        },
+        {
+          "Question": "What element is used to create an ordered list in HTML?",
+          "answer": "<ol>",
+          "num": 9,
+          "options": [
+            "<list>",
+            "<ul>",
+            "<ol>",
+            "<menu>"
+          ]
+        },
+        {
+          "Question": "What element is used to create an unordered list in HTML?",
+          "answer": "<ul>",
+          "num": 10,
+          "options": [
+            "<ul>",
+            "<li>",
+            "<menu>",
+            "<ol>"
+          ]
+        }
+      ]
+    },
+    "QUIZ_8": {
+      "Quiz_Desc": "From ancient civilizations to modern history, this quiz covers a wide range of historical topics. Test your knowledge and see if you're a history buff!",
+      "Quiz_Title": "Time Traveler",
+      "Quiz_id": "QUIZ_8",
+      "Quiz_sub": "Travel through time with this history quiz!",
+      "img": "imgs/history.webp",
+      "questions": [
+        {
+          "Question": "Which empire is known for building the Great Wall of China?",
+          "answer": "Qin Dynasty",
+          "num": 1,
+          "options": [
+            "Han Dynasty",
+            "Ming Dynasty",
+            "Qin Dynasty",
+            "Tang Dynasty"
+          ]
+        },
+        {
+          "Question": "What major event marked the end of the Roman Empire in the West?",
+          "answer": "Fall of Rome (476 AD)",
+          "num": 2,
+          "options": [
+            "Eruption of Mount Vesuvius",
+            "Punic Wars",
+            "Fall of Rome (476 AD)",
+            "Assassination of Julius Caesar"
+          ]
+        },
+        {
+          "Question": "During which period did the Renaissance occur?",
+          "answer": "14th-17th centuries",
+          "num": 3,
+          "options": [
+            "8th-12th centuries",
+            "5th-8th centuries",
+            "14th-17th centuries",
+            "11th-14th centuries"
+          ]
+        },
+        {
+          "Question": "Who is credited with leading the Russian Revolution in 1917?",
+          "answer": "Vladimir Lenin",
+          "num": 4,
+          "options": [
+            "Joseph Stalin",
+            "Nicholas II",
+            "Vladimir Lenin",
+            "Leon Trotsky"
+          ]
+        },
+        {
+          "Question": "What major event sparked World War I?",
+          "answer": "Assassination of Archduke Franz Ferdinand",
+          "num": 5,
+          "options": [
+            "French Revolution",
+            "Industrial Revolution",
+            "Assassination of Archduke Franz Ferdinand",
+            "American Civil War"
+          ]
+        },
+        {
+          "Question": "Which major world organization was formed after World War II?",
+          "answer": "United Nations",
+          "num": 6,
+          "options": [
+            "League of Nations",
+            "North Atlantic Treaty Organization (NATO)",
+            "United Nations",
+            "World Bank"
+          ]
+        },
+        {
+          "Question": "What technological advancements characterized the Industrial Revolution?",
+          "answer": "Development of steam engine and machinery",
+          "num": 7,
+          "options": [
+            "Invention of the printing press",
+            "Development of gunpowder",
+            "Development of steam engine and machinery",
+            "Rise of the internet"
+          ]
+        },
+        {
+          "Question": "What is the significance of the Berlin Wall in modern history?",
+          "answer": "Divided communist East Germany from West Germany",
+          "num": 8,
+          "options": [
+            "Separated Roman and Byzantine Empires",
+            "Divided communist East Germany from West Germany",
+            "Marked the border of the Aztec Empire",
+            "Separated the Korean Peninsula"
+          ]
+        },
+        {
+          "Question": "Who is considered the 'Father of Modern Physics'?",
+          "answer": "Isaac Newton",
+          "num": 9,
+          "options": [
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Marie Curie",
+            "Isaac Newton"
+          ]
+        },
+        {
+          "Question": "What event marked the beginning of the Space Age?",
+          "answer": "Launch of Sputnik 1 (1957)",
+          "num": 10,
+          "options": [
+            "Moon landing (1969)",
+            "First powered airplane flight",
+            "Launch of Sputnik 1 (1957)",
+            "Invention of the telescope"
+          ]
+        }
+      ]
+    },
+    "QUIZ_9": {
+      "Quiz_Desc": "From planets to galaxies, this quiz explores the vastness of space. Test your knowledge and see if you're a space enthusiast!",
+      "Quiz_Title": "Space Trek",
+      "Quiz_id": "QUIZ_9",
+      "Quiz_sub": "Embark on a space adventure with this quiz!",
+      "img": "imgs/Space.jpg",
+      "questions": [
+        {
+          "Question": "What is the hottest planet in our solar system, despite not being closest to the sun?",
+          "answer": "Venus",
+          "num": 1,
+          "options": [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Mars"
+          ]
+        },
+        {
+          "Question": "What is the name of the supermassive black hole at the center of our Milky Way galaxy?",
+          "answer": "Sagittarius A*",
+          "num": 2,
+          "options": [
+            "Andromeda Black Hole",
+            "Cygnus X-1",
+            "Sagittarius A*",
+            "M87"
+          ]
+        },
+        {
+          "Question": "What is the difference between a star and a planet?",
+          "answer": "Stars generate their own light through nuclear fusion, while planets reflect light from their star.",
+          "num": 3,
+          "options": [
+            "Stars are hotter, planets are colder.",
+            "Stars are larger, planets are smaller.",
+            "Stars have rings, planets don't.",
+            "Stars generate their own light through nuclear fusion, while planets reflect light from their star."
+          ]
+        },
+        {
+          "Question": "What is the name of the largest known structure in the observable universe?",
+          "answer": "Great Wall Sloan Great Wall",
+          "num": 4,
+          "options": [
+            "Hercules-Corona Borealis Great Wall",
+            "Virgo Supercluster",
+            "Great Attractor",
+            "Great Wall Sloan Great Wall"
+          ]
+        },
+        {
+          "Question": "What gas makes up the majority of the Sun's composition?",
+          "answer": "Hydrogen",
+          "num": 5,
+          "options": [
+            "Helium",
+            "Oxygen",
+            "Nitrogen",
+            "Hydrogen"
+          ]
+        },
+        {
+          "Question": "What is the name of the first human-made object to leave the solar system?",
+          "answer": "Voyager 1",
+          "num": 6,
+          "options": [
+            "Sputnik 1",
+            "Apollo 11",
+            "Pioneer 10",
+            "Voyager 1"
+          ]
+        },
+        {
+          "Question": "What is the difference between a nebula and a galaxy?",
+          "answer": "A nebula is a cloud of gas and dust in space, while a galaxy is a massive collection of stars, gas, dust, and dark matter.",
+          "num": 7,
+          "options": [
+            "Nebulae are hotter, galaxies are colder.",
+            "Nebulae are smaller, galaxies are larger.",
+            "Nebulae contain black holes, galaxies don't.",
+            "A nebula is a cloud of gas and dust in space, while a galaxy is a massive collection of stars, gas, dust, and dark matter."
+          ]
+        },
+        {
+          "Question": "What is the name of the dwarf planet that was once considered the ninth planet in our solar system?",
+          "answer": "Pluto",
+          "num": 8,
+          "options": [
+            "Eris",
+            "Ceres",
+            "Haumea",
+            "Pluto"
+          ]
+        },
+        {
+          "Question": "What is the phenomenon observed when a star explodes with immense force at the end of its life cycle?",
+          "answer": "Supernova",
+          "num": 9,
+          "options": [
+            "Black hole formation",
+            "Planetary nebula",
+            "Supernova",
+            "Red giant phase"
+          ]
+        },
+        {
+          "Question": "What is the current leading theory for the origin of the universe?",
+          "answer": "Big Bang theory",
+          "num": 10,
+          "options": [
+            "Steady-state theory",
+            "Plasma cosmology",
+            "String theory",
+            "Big Bang theory"
+          ]
+        }
+      ]
+    }
+  },
+  "users": {
+    "User_Unique_Id": {
+      "Ancient Sage": [
+        0,
+        1
+      ],
+      "Boxing Blitz": [
+        3,
+        1
+      ],
+      "C Coding Conqueror": [
+        4,
+        1
+      ],
+      "C++ Challenge": [
+        0,
+        0
+      ],
+      "Cricket Challenge": [
+        10,
+        1
+      ],
+      "Etymology Exploration": [
+        1,
+        1
+      ],
+      "Footy Time Warp": [
+        0,
+        0
+      ],
+      "Geo Quest": [
+        7,
+        1
+      ],
+      "HTML Maestro": [
+        5,
+        1
+      ],
+      "Master of Melodies": [
+        0,
+        0
+      ],
+      "News Ninja": [
+        1,
+        1
+      ],
+      "Octagon Quest": [
+        9,
+        1
+      ],
+      "Olympic Oracle": [
+        4,
+        1
+      ],
+      "Random Fact Frenzy": [
+        8,
+        1
+      ],
+      "Space Trek": [
+        9,
+        1
+      ],
+      "Speed Freak": [
+        3,
+        1
+      ],
+      "Time": "Joined time",
+      "Time Traveler": [
+        0,
+        0
+      ],
+      "Video Game Guru": [
+        3,
+        1
+      ],
+      "Wildlife Wiz": [
+        6,
+        1
+      ],
+      "Wonder Wanderer": [
+        0,
+        0
+      ],
+      "displayName": "display name",
+      "email": "email",
+      "total_correct": "total correct answers",
+      "total_incorrect": "total incorrect answers",
+      "total_quiz_played": "total quiz played"
+    }
+  }
+}
