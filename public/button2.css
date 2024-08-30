@@ -1,0 +1,25 @@
+.au {
+    margin-bottom: 4px;
+    margin-top: 4px;
+    height: 30px;
+    width: 120px;
+    border-radius: 10px;
+    background: #181717;
+    justify-content: center;
+    align-items: center;
+    box-shadow: -5px -5px 15px #2e2b2b, 5px 5px 15px #1a1818, inset 5px 5px 10px #444,
+      inset -5px -5px 10px #080707;
+    cursor: pointer;
+    border: none;
+    font-size: 16px;
+    color: rgb(245, 241, 241);
+    transition: 500ms;
+  }
+  
+  .au:hover {
+    box-shadow: -5px -5px 15px #323131, 5px 5px 15px #131313, inset 5px 5px 10px #222,
+      inset -5px -5px 10px #444;
+    color: #d6d6d6;
+    transition: 500ms;
+  }
+  

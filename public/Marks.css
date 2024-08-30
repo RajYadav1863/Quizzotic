@@ -1,0 +1,113 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+
+  
+}
+
+body{
+    background: #000000;
+}
+
+
+#dash-con{
+
+display: flex;
+flex-direction: column;
+padding: 30px;
+color: aliceblue;
+border-radius: 30px;
+background: #000000;
+
+}
+
+.elem{
+    display:flex;
+    justify-content: space-between;
+    gap: 30px;
+    padding: 10px;
+
+
+}
+
+#test_given{
+    background: #000000;
+    padding: 30px;
+}
+#test_not_given{
+    background: #0a0a0a;
+    padding: 30px;
+
+}
+#t{
+    display:flex;
+    justify-content: space-between;
+    
+}
+#t a{
+   text-decoration: none;
+   color:aliceblue;
+}
+
+h3{
+
+    margin-left: 2%;
+
+}
+
+
+
+
+@media only screen and (max-width:630px) {
+
+    .elem{
+        gap: 0px;
+
+        flex-direction: column;
+    }
+   
+
+    
+    
+    }
+
+
+@media only screen and (max-width:490px) {
+
+.elem{
+    flex-direction: column;
+    gap: 0px;
+}
+
+#dash-con h3,h2{
+
+    text-align: center;
+}
+#t a{
+    margin-left: 40px;
+}
+
+
+
+}
+@media only screen and (max-width:360px) {
+
+.elem{
+    gap: 0px;
+
+    flex-direction: column;
+}
+
+#dash-con {
+
+    margin-left: 20%;
+}
+
+
+
+
+}

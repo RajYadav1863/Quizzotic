@@ -1,0 +1,83 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+
+  
+}
+
+#footer {
+    background-color: #333;
+    color: #fff;
+    padding: 30px 0;
+    margin-top: 20px;
+}
+
+.container {
+    max-width: 1350px;
+    margin: 0 auto;
+    padding: 20px 20px;
+    /* background-color: #EDBFFF; */
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-column {
+   
+    width: 30%;
+}
+
+.footer-column h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.footer-column p {
+    font-size: 16px;
+}
+
+.footer-column ul {
+    list-style: none;
+    padding: 0;
+}
+
+.footer-column li {
+    margin-bottom: 13px;
+}
+
+.footer-column a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-column a:hover {
+    color: #EDBFFF;
+}
+
+.footer-bottom {
+    margin-top: 30px;
+    margin-bottom: 25vw;
+    text-align: center;
+    margin-bottom: 5px;
+
+    
+}
+
+.footer-bottom p {
+    font-size: 15px;
+}
+
+
+
+#tell-e{
+    word-wrap: break-word; /* This will allow the text to wrap onto the next line if it's too long */
+    overflow-wrap: break-word; /* Alternative property for better browser compatibility */
+    max-width: 100%;     
+}

@@ -1,0 +1,132 @@
+/* Reset some default styles for better cross-browser consistency */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+
+  
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f9f9f9;
+}
+
+#quiz-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    
+}
+
+#quiz {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    width: 400px;
+}
+
+.question {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+}
+.answer{
+    cursor: pointer;
+
+}
+
+
+li {
+    margin-bottom: 15px;
+    border:   black solid;
+    padding: 10px;
+    border-radius: 25.0px;
+}
+
+/* .answer {
+    display: none;
+} */
+
+label {
+    cursor: pointer;
+    font-size: 16px;
+    color: #555;
+    transition: color 0.3s ease;
+}
+
+label:hover {
+    color: #007bff; /* Change color on hover */
+}
+
+.btn {
+    text-align: center;
+}
+
+#submit {
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    padding: 12px 24px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+#submit:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+}
+
+.result p{
+    color: grey;
+    font-weight: 600;
+    margin-left: 4vw;
+}
+
+.result h2,
+.score{
+    font-size:larger;
+    margin-left: 2.5vw;
+}
+ 
+.score{
+    font-size:large;
+    margin-left: 0px;
+}
+
+
+.result button{
+    border: 1.5px solid #111;
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 7px 25px;
+    font-size: large;
+    font-weight: 500;
+    margin-left: 10px;
+}
+.result a{
+    border: 1.5px solid #111;
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 7px 25px;
+    font-size: large;
+    font-weight: 500;
+    margin-right: 10px;
+    text-decoration: none;
+
+}
+
+.result button:hover{
+    border: none;
+    background-color: #317ccc;
+    color: #fff
+    
+}

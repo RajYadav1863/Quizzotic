@@ -1,0 +1,553 @@
+/* Reset some default styles for better cross-browser consistency */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+
+  
+}
+
+html, body {
+  /* removable font*/
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  height: 100%;
+  width: 100%;
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+  background-color: #feffff;
+}
+
+/* Header styling */
+header {
+  background-color:white;
+  color: #090909;
+  padding: 10px ;
+  position: fixed;
+  width: 100%;
+  box-shadow: 0 6px 7px 0 rgba(30, 0, 255, 0.2);
+}
+
+.menu{
+  display: flex;
+  
+
+}
+
+/* navbar1 styling */
+.navbar1 {
+  display: flex;
+  justify-content: space-between;
+  align-items:flex-start
+  
+  
+}
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #1f1c1c;
+  font-weight: bold;
+  margin-right: 20px;
+  transition: color 0.3s;
+}
+
+.menu a:hover {
+  color: #ff9900;
+}
+
+
+
+/* Main navigation */
+.main-nav {
+  background-color:#26a69a;
+  text-align: center;
+  padding: 12px 0;
+  display: flex;
+  justify-content: space-around;
+  border-radius: 18px;
+  
+  align-items: center;
+}
+
+.main-nav a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+.main-nav a:hover {
+  color: #ff9900;
+}
+
+/* Banner section */
+.bannerback
+{
+  background: linear-gradient(to right, #51bced,#38a9e6,#8344ff);
+  width: 100%;
+  border-radius: 0% 0% 20% 20%;
+}
+.banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70vh;
+  background-image: url(imgs/web2.jpg);
+  background-size: cover;
+  background-position: bottom center;
+
+  border-radius: 0% 0% 10% 10%;
+  width: 100%;
+  padding: 5%;
+}
+
+.banner-content {
+  text-align: center;
+  color: white;
+}
+
+.banner-content p{
+  margin-top: 10px;
+  margin-left: 34px;
+  margin-right: 34px;
+  margin-bottom:34px ;
+ 
+}
+
+.banner h1 {
+  font-size: 36px;
+  font-weight: bold;
+  padding-bottom: 40px;
+}
+
+.banner h2 {
+  font-size: 18px;
+  padding-bottom: 20px;
+}
+
+/* Animated button */
+.animated-button {
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
+  background: linear-gradient(to right, #00eeff, #aa0aaa, #ff039e);
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+  transition: background 0.3s, transform 0.2s;
+ 
+}
+
+.animated-button:hover {
+  background: linear-gradient(to right, #ff9900, #ff039e, #00eeff);
+  transform: scale(1.05);
+}
+
+/* below banner whole about us section */
+
+
+
+
+/* about us */
+
+.about-us{
+
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top:30px;
+      width: 98%;
+}
+
+
+
+.about
+{
+  /* about us heading */
+  margin-top: 2%;
+  font-size: x-large;
+  text-align: center;
+  text-decoration: underline double; 
+  text-underline-offset: 15px ;
+  text-decoration-color:rgba(17, 175, 238, 0.525);
+ }
+ 
+
+ 
+ 
+  .aboutusimage
+  {
+   width: 40%;
+   text-align: center;
+  }
+  .aboutuscontent
+  {
+
+    
+
+   
+    background-color: #f7ffff;
+    height: 80%;
+    width: 50%;
+  }
+  .quote
+  {
+    padding: 5px;
+    margin-top: 20px;
+    font-size: large;
+    text-align:justify;
+  
+
+  }
+  .para
+  {
+    /* about us paragraph */
+    padding: 10px;
+    color: rgba(30, 28, 28, 0.744);
+  }
+  .f{
+    padding: 10px;
+    color: rgba(30, 28, 28, 0.744);
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  .gem{
+    width:70%;
+    margin-left: 24.0%;
+  }
+  .gem img{
+    border-radius: 10%;
+
+  }
+
+
+
+  /* ABOUT US END HERE*/
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+ /* FEATURES SECTION */
+ .features
+ {
+   /* features heading */
+   margin-top: 2%;
+   margin-bottom: 1%;
+   font-size: x-large;
+   text-align: center;
+   text-decoration: underline double; 
+   text-underline-offset: 15px ;
+   text-decoration-color:rgba(17, 175, 238, 0.525);
+ }
+ .featsub
+ {
+   /* features subheading */
+   margin-top: 6%;
+   margin-bottom: 2%;
+   font-size: larger;
+   text-align: center;
+   color: rgb(21, 131, 200);
+ }
+
+ .featuresection
+ {
+   /* features main div */
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 100%; 
+   height: 100%;
+  
+ }
+
+ .featuresection img
+ {
+   /* features main div image */
+   width: 70%;
+   height: 104%;
+   /* background-size: cover;
+   background-position: center; */
+   padding: 2%;
+   margin-right: 4%;
+  
+ }
+
+
+
+
+ 
+  /* HOW IT WORKS SECTION */
+  .journey
+  {
+
+    margin-top: 2%;
+    margin-bottom: 1%;
+    font-size: x-large;
+    text-align: center;
+    text-decoration: underline double; 
+    text-underline-offset:  15px ;
+    text-decoration-color:rgba(17, 175, 238, 0.525);
+
+  }
+  .journeysub
+  {
+    margin-top: 4%;
+    margin-bottom: 1%;
+    font-size: larger;
+    text-align: center;
+    
+  }
+
+  
+  .works
+  {
+   
+    margin-top: 2%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 98%;
+ 
+    /* background-color: #26a69a; */
+  }
+  .workimage{
+    width: 60%;
+    text-align: center;
+  }
+  .workimage img{
+    width: 100%;
+    text-align: center;
+  }
+
+  .workcontent{
+    padding: 40px;
+  } 
+  .workcontent ul{
+    list-style:none;
+  }
+
+  .workcontent ul li{
+    /* padding: 10px; */
+    margin-top: 20px;
+  }
+  .workcontent h4{
+    color: rgba(30, 28, 28, 0.744);
+
+    margin-top: 10px;
+  }
+
+
+
+
+
+
+/* FOOTER SECTION */
+.footer
+{
+  text-align: center;
+  width: 100%;
+  height:30% ;
+  background-color:#091156 ;
+  padding: 1%;
+}
+ .footer h1
+{
+  margin-top: 1%;
+  color: #e1e9e9;
+}
+.footer h3
+{
+  margin-top: 0%;
+ color: #e1e9e9;
+}
+.footerIN {
+  margin-top: 1%;
+  display: flex;
+  justify-content: center;
+  font-size: larger;
+  
+}
+.separator {
+  margin: 0 20px; 
+  color: #f7ffff; 
+}
+
+
+
+
+
+/* Add this CSS code to your existing styles */
+
+/* Hover effect for workcontent and aboutuscontent */
+/* .workcontent::before,
+.aboutuscontent::before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 0;
+  background: rgb(173, 186, 230);
+  bottom: 0;
+  left: 0;
+  z-index: -1;
+  transition: height 0.4s ease;
+  pointer-events: none;
+  border-radius: 25px;
+
+}
+
+.workcontent:hover::before,
+.aboutuscontent:hover::before {
+  height: 100%;
+  border-radius: 25px;
+
+}
+
+/* Reset the z-index for the content to appear above the background */
+/* .workcontent, */
+/* .aboutuscontent {
+  position: relative;
+  z-index: 1;
+  border-radius: 25px;
+
+} */ 
+
+
+
+
+ 
+  /* MEDIA QUERIES */
+ 
+@media only screen and (max-width:485px) {
+
+  .main-nav{
+    display:none;
+  }
+
+  .navbar1 {
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+  }
+
+.menu{
+  display: flex;
+  width:50%;
+}
+
+  .logo{
+    font-size: 15px;
+    text-align: left;
+  }
+
+ 
+}
+
+
+@media only screen and (max-width:310px) {
+
+  .main-nav{
+    display:none;
+  }
+
+  .navbar1 {
+    display: flex;
+    justify-content: space-between;
+    align-items:flex-start;
+  }
+
+.menu{
+  display: flex;
+  width:50%;
+  font-size: 12.22px;
+}
+
+
+
+  .logo{
+    font-size: 13px;
+    text-align: left;
+  }
+}
+
+
+/* aboutus content responsiveness */
+
+@media only screen and (max-width:998px) {
+
+  .about-us{
+    
+    flex-direction: column;
+    flex-direction: column-reverse;
+    align-items: center;
+    margin-top:30px;
+    width: 98%;
+}
+
+
+.aboutuscontent
+{
+ 
+  background-color: #f7ffff;
+  height: 80%;
+  width: 96%;
+}
+
+ 
+.aboutusimage
+{
+ width: 100%;
+ text-align: center;
+  
+}
+.aboutusimage img{
+  width: 100%;
+  align-items: center;
+}
+
+
+#unnn{
+  text-decoration: none;
+  color: white;
+}
+
+
+
+
+
+.works
+{
+ 
+  margin-top: 2%;
+  flex-direction: column;
+  align-items: center;
+  width: 98%;
+
+  /* background-color: #26a69a; */
+}
+
+
+
+}
+
+
+
+
+
+
+

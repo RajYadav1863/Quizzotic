@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="ham.css">
+  <link rel="stylesheet" href="header.css">
+  <link rel="stylesheet" href="header.css">
+  <link rel="stylesheet" href="footer.css">
+  <link rel="stylesheet" href="button2.css">
+    <style>
+      /* Styles for the form container */
+/* Basic Styling */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+/* Apply the font family to an element */
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+#outer{margin-top: 4%;
+  display: flex;
+  justify-content: center;
+}
+
+h3{
+  margin-top: 4%;
+  margin-bottom: 4%;
+  text-align: center;
+}
+
+.form-container {
+  width: 400px;
+  background: linear-gradient(#212121, #212121) padding-box,
+              linear-gradient(145deg, transparent 35%,#e81cff, #40c9ff) border-box;
+  border: 2px solid transparent;
+  padding: 32px 24px;
+  font-size: 14px;
+  font-family: inherit;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  box-sizing: border-box;
+  border-radius: 16px;
+  background-size: 200% 100%;
+  animation: gradient 5s ease infinite;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.form-container #button:active {
+  scale: 0.95;
+}
+
+.form-container form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.form-container .form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.form-container .form-group label {
+  display: block;
+  margin-bottom: 5px;
+  color: #717171;
+  font-weight: 600;
+  font-size: 12px;
+  
+}
+
+.form-container .form-group input {
+  
+  padding: 12px 16px;
+  border-radius: 8px;
+  color: #fff;
+  font-family: inherit;
+  background-color: transparent;
+  border: 1px solid #414141;
+}
+
+.form-container .form-group textarea {
+  width: 100%;
+  padding: 12px 16px;
+  border-radius: 8px;
+  resize: none;
+  color: #fff;
+  height: 96px;
+  border: 1px solid #414141;
+  background-color: transparent;
+  font-family: inherit;
+}
+
+.form-container .form-group input::placeholder {
+  opacity: 0.5;
+}
+
+.form-container .form-group input:focus {
+  outline: none;
+  border-color: #e81cff;
+}
+
+.form-container .form-group textarea:focus {
+  outline: none;
+  border-color: #e81cff;
+}
+
+.form-container .form-submit-btn {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: flex-start;
+  font-family: inherit;
+  color: #717171;
+  font-weight: 600;
+  width: 40%;
+  background: #313131;
+  border: 1px solid #414141;
+  padding: 12px 16px;
+  font-size: inherit;
+  gap: 8px;
+  margin-top: 8px;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.form-container .form-submit-btn:hover {
+  background-color: #fff;
+  border-color: #fff;
+}
+
+
+
+
+
+
+
+
+    </style>
+</head>
+<body>
+
+<!--header-->
+<header>
+  <nav class="navbar1">
+    <div class="logo">Quizzotic</div>
+    <div class="menu">
+      <button id="LoginButton" class="au">
+          <!--google logo-->
+          <svg stroke="currentColor" fill="currentColor" stroke-width="0" version="1.1" x="0px" y="0px" class="google-icon" viewBox="0 0 48 48" height="1em" width="1em" xmlns="http://www.w3.org/2000/svg">
+              <path fill="#FFC107" d="M43.611,20.083H42V20H24v8h11.303c-1.649,4.657-6.08,8-11.303,8c-6.627,0-12-5.373-12-12
+    c0-6.627,5.373-12,12-12c3.059,0,5.842,1.154,7.961,3.039l5.657-5.657C34.046,6.053,29.268,4,24,4C12.955,4,4,12.955,4,24
+    c0,11.045,8.955,20,20,20c11.045,0,20-8.955,20-20C44,22.659,43.862,21.35,43.611,20.083z"></path>
+              <path fill="#FF3D00" d="M6.306,14.691l6.571,4.819C14.655,15.108,18.961,12,24,12c3.059,0,5.842,1.154,7.961,3.039l5.657-5.657
+    C34.046,6.053,29.268,4,24,4C16.318,4,9.656,8.337,6.306,14.691z"></path>
+              <path fill="#4CAF50" d="M24,44c5.166,0,9.86-1.977,13.409-5.192l-6.19-5.238C29.211,35.091,26.715,36,24,36
+    c-5.202,0-9.619-3.317-11.283-7.946l-6.522,5.025C9.505,39.556,16.227,44,24,44z"></path>
+              <path fill="#1976D2" d="M43.611,20.083H42V20H24v8h11.303c-0.792,2.237-2.231,4.166-4.087,5.571
+    c0.001-0.001,0.002-0.001,0.003-0.002l6.19,5.238C36.971,39.205,44,34,44,24C44,22.659,43.862,21.35,43.611,20.083z"></path>
+            </svg>
+          <!--google logo-->
+          
+          
+           signup</button>
+
+
+      <img class="up" id="photo" src="WhatsApp Image 2024-03-22 at 15.59.29_b8da7af8.jpg" alt="Profile Photo">
+
+      <div class="hamburger">
+        <input type="checkbox" id="active">
+        <label for="active" class="menu-btn"><span></span></label>
+        <label for="active" class="close"></label>
+
+        <div class="wrapper">
+          <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="about.html">About us</a></li>
+              <li><a class="private" href="Quiz_page.html">Quizzes</a></li>
+              <li><a class="private" href="profile.html">Profile</a></li>
+              <li><a class="private" href="Dashboard.html"> Dashboard</a></li>
+          </ul>
+        </div>
+
+      </div>
+
+    </div>
+
+  </nav>
+  <nav class="main-nav">
+      <a href="index.html">Home</a>
+      <a  href="about.html">About us</a>
+      <a class="private" href="Quiz_page.html">Quizzes</a>
+      <a class="private" href="profile.html">Profile</a>
+      <a class="private" href="Dashboard.html"> Dashboard</a>
+    </nav>
+</header>
+<!--header-->
+
+
+  <div id="outer">
+  <div class="form-container" >
+
+    <form id="form">
+      <h3>Please provide your valuable feedback</h3>
+      <div class="form-group">
+
+        
+          <label for="from_name">Name</label>
+          <input type="text" name="from_name" id="from_name" readonly required="">
+        </div>
+        <div class="form-group">
+                    <label for="email_id">Email</label>
+          <input type="email" name="email_id" id="email_id" readonly required="">
+        </div>
+        <div class="form-group">
+          <label for="message">Message</label>
+          <input type="text" name="message" id="message" required="">
+        </div>
+      
+        <input class="form-submit-btn" type="submit" id="button" value="Send Feedback" >
+      </form>
+  </div>
+</div>
+
+ <!-- <footer> -->
+  <footer id="footer">
+    <div class="container">
+        <div class="footer-content">
+            <div class="footer-column">
+                <h3>About Quizzotic</h3>
+                <p>Quizzotic is a platform designed to revolutionize learning through engaging quizzes tailored to diverse interests and knowledge levels.</p>
+            </div>
+            <div class="footer-column">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a class="private" href="Quiz_page.html">Quizzes</a></li>
+                    <li><a  class="private" href="profile.html">Profile</a></li>
+                        <li><a  class="private" href="Dashboard.html">Dashboard</a></li>
+                        <li><a class="private" href="feedback.html">Feedback</a></li>
+                    <!-- <li><a href="#">FAQ</a></li> -->
+                    <!-- <li><a href="#">Contact</a></li> -->
+                </ul>
+            </div>
+            <div class="footer-column">
+                <h3>Contact Us</h3>
+                <p id="tell-e">Email: Quizzotic.598@gmail.com</p>
+                <p>Phone: +1 123-456-7890</p>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>&copy; 2024 Quizzotic. All Rights Reserved.</p>
+        </div>
+    </div>
+</footer>
+
+<!-- <footer> -->
+  <script type="module" src="convert.js"></script>
+  <script type="module" src="feedback.js"></script>
+      
+      <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+      
+    
+
+
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+<!-- 
+// // Initialize EmailJS with your user ID
+// emailjs.init("your_user_id");
+
+// // Function to send an email
+// function sendEmail() {
+//   // Get the user's input for the email content
+//   var fromName = document.getElementById("from_name").value;
+//   var emailId = document.getElementById("email_id").value;
+//   var message = document.getElementById("message").value;
+
+//   // Set up the email parameters
+//   var templateParams = {
+//     from_name: fromName,
+//     email_id: emailId,
+//     message: message
+//   };
+
+//   // Send the email using EmailJS
+//   emailjs.send("your_service_id", "your_template_id", templateParams)
+//     .then(function(response) {
+//       console.log("Email sent successfully", response);
+//       // Optionally, show a success message to the user
+//     }, function(error) {
+//       console.log("Email failed to send", error);
+//       // Optionally, show an error message to the user
+//     });
+// } -->
